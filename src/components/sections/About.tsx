@@ -32,7 +32,7 @@ export default function About() {
           <Reveal variants={slideInLeft} className="lg:col-span-2">
             <div className="gradient-border glass-card relative mx-auto w-fit !rounded-3xl p-2">
               <img
-                src="rohit-photo.jpeg"
+                src="image.jpeg"
                 alt="Rohit Singh"
                 className="h-72 w-64 rounded-2xl object-cover sm:h-80 sm:w-72"
               />
