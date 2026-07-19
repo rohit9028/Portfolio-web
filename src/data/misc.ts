@@ -53,7 +53,7 @@ export const achievementStats: AchievementStat[] = [
   { label: "Projects Completed", value: 3, suffix: "+", icon: "folder-check" },
   { label: "Technologies Learned", value: 19, suffix: "+", icon: "cpu" },
   { label: "GitHub Repositories", value: 4, suffix: "", icon: "github" },
-  { label: "Certificates Earned", value: 0, suffix: "+", icon: "award" },
+  { label: "Certificates Earned", value: 1, suffix: "+", icon: "award" },
 ];
 
 export const aboutHighlights = [

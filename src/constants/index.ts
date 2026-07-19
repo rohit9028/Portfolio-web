@@ -20,6 +20,7 @@ export const NAV_LINKS = [
   { label: "Projects", to: "projects" },
   { label: "Experience", to: "experience" },
   { label: "Education", to: "education" },
+  { label: "Certifications", to: "certifications" },
   { label: "Contact", to: "contact" },
 ];
 
@@ -37,7 +38,7 @@ export const TYPED_STRINGS = [
 ];
 
 export const EMAILJS_CONFIG = {
-  serviceId: "YOUR_EMAILJS_SERVICE_ID",
-  templateId: "YOUR_EMAILJS_TEMPLATE_ID",
-  publicKey: "YOUR_EMAILJS_PUBLIC_KEY",
+  serviceId: "service_72dkfsdkj",
+  templateId: "template_84n12bf",
+  publicKey: "KusbQGyGzFTp65ca3",
 };

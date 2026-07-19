@@ -4,6 +4,7 @@ import Skills from "@/components/sections/Skills";
 import Projects from "@/components/sections/Projects";
 import Experience from "@/components/sections/Experience";
 import Education from "@/components/sections/Education";
+import Certifications from "@/components/sections/Certifications";
 import Achievements from "@/components/sections/Achievements";
 import GithubStats from "@/components/sections/GithubStats";
 import Services from "@/components/sections/Services";
@@ -18,6 +19,7 @@ export default function Home() {
       <Projects />
       <Experience />
       <Education />
+      <Certifications />
       <Achievements />
       <GithubStats />
       <Services />
