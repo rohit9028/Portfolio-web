@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { useState } from "react";
-import { Layout, Server, Database, Code, Wrench, Cpu, type LucideIcon } from "lucide-react";
+import { Layout, Server, Database, Code, Wrench, Cpu, Cloud, type LucideIcon } from "lucide-react";
 import SectionHeading from "@/components/common/SectionHeading";
 import Reveal from "@/components/common/Reveal";
 import { skillCategories } from "@/data/skills";
@@ -13,6 +13,7 @@ const iconMap: Record<string, LucideIcon> = {
   code: Code,
   wrench: Wrench,
   cpu: Cpu,
+  cloud: Cloud,
 };
 
 export default function Skills() {
